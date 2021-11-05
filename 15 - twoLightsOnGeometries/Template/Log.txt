@@ -1,0 +1,2830 @@
+File successfully opened
+D3D11CreateDeviceAndSwapChain() Succeeded . 
+The Chosen Driver Is of Hardware Type. 
+The supported Highest Feature Level is 11.0
+D3DCompile() Succeeded for vertex shader.
+D3DCompile() Succeeded for pixel shader.
+ID3D11Device::CreateBuffer() Succeeded for Vertex Buffer.
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded.
+ID3D11Device::CreateRenderTargetView() Succeeded.
+resize() succeeded.
+uninitialize() Succeeded
+Log file Is successfully Closed.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() Failed for vertex shader D:\Dev\CodeBase\RTR-course 2018\Direct3D\12 - gouradShading on Sphere\Template\VS(1,252-264): error X3003: redefinition of 'vertex_output'
+.
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() Failed for vertex shader D:\Dev\CodeBase\RTR-course 2018\Direct3D\12 - gouradShading on Sphere\Template\VS(1,252-264): error X3003: redefinition of 'vertex_output'
+.
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() failed.
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() Failed for vertex shader D:\Dev\CodeBase\RTR-course 2018\Direct3D\14 - toggleShading models\Template\VS(1,1082-1087): error X3004: undeclared identifier 'output'
+.
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() failed for pixel shader: D:\Dev\CodeBase\RTR-course 2018\Direct3D\14 - toggleShading models\Template\PS(1,540-544): error X3004: undeclared identifier 'tNorm'
+D:\Dev\CodeBase\RTR-course 2018\Direct3D\14 - toggleShading models\Template\PS(1,530-545): error X3013: 'normalize': no matching 1 parameter intrinsic function
+D:\Dev\CodeBase\RTR-course 2018\Direct3D\14 - toggleShading models\Template\PS(1,530-545): error X3013: Possible intrinsic functions are:
+D:\Dev\CodeBase\RTR-course 2018\Direct3D\14 - toggleShading models\Template\PS(1,530-545): error X3013:     normalize(floatM|halfM|min10floatM|min16floatM)
+.
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() Failed for vertex shader D:\Dev\CodeBase\RTR-course 2018\Direct3D\14 - toggleShading models\Template\VS(1,786): error X3000: syntax error: unexpected token ')'
+D:\Dev\CodeBase\RTR-course 2018\Direct3D\14 - toggleShading models\Template\VS(1,770-786): error X3013: 'normalize': no matching 0 parameter intrinsic function
+D:\Dev\CodeBase\RTR-course 2018\Direct3D\14 - toggleShading models\Template\VS(1,770-786): error X3013: Possible intrinsic functions are:
+D:\Dev\CodeBase\RTR-course 2018\Direct3D\14 - toggleShading models\Template\VS(1,770-786): error X3013:     normalize(floatM|halfM|min10floatM|min16floatM)
+.
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() failed for pixel shader: D:\Dev\CodeBase\RTR-course 2018\Direct3D\15 - twoLightsOnGeometries\Template\PS(1,1278): error X3000: syntax error: unexpected token '}'
+D:\Dev\CodeBase\RTR-course 2018\Direct3D\15 - twoLightsOnGeometries\Template\PS(1,1342-1347): error X3000: syntax error: unexpected token 'return'
+.
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() failed . 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() failed . 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() failed . 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() failed for pixel shader: D:\Dev\CodeBase\RTR-course 2018\Direct3D\15 - twoLightsOnGeometries\Template\PS(1,1295-1299): error X3004: undeclared identifier 'tNorm'
+.
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer position
+ID3D11Device::CreateBuffer() Succeeded for normals buffer position
+ID3D11Device::CreateBuffer() Succeeded for index buffer 
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+CreateRasterizerState() Succeeded for culling. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+CreateDepthStencilView() Succeeded. 
+resize() Suceeded.

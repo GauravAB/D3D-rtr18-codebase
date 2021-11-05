@@ -1,0 +1,254 @@
+File successfully opened
+D3D11CreateDeviceAndSwapChain() Succeeded . 
+The Chosen Driver Is of Hardware Type. 
+The supported Highest Feature Level is 11.0
+D3DCompile() Succeeded for vertex shader.
+D3DCompile() Succeeded for pixel shader.
+ID3D11Device::CreateBuffer() Succeeded for Vertex Buffer.
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded.
+ID3D11Device::CreateRenderTargetView() Succeeded.
+resize() succeeded.
+uninitialize() Succeeded
+Log file Is successfully Closed.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+D3DCompile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+D3DCompile() Succeeded for pixel shader. 
+createPixelShader() succeeded. 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer
+gpID3D11Device::CreateInputLayout() Succeeded.
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() succeeded. 
+ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.ID3D11Device::CreateRenderTargetView() succeeded.
+resize() Suceeded.

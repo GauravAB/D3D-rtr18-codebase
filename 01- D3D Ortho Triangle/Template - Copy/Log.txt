@@ -1,0 +1,24 @@
+file created 
+Device , DeviceContext and SwapChain Created Succesfully
+feature acquired: 11_0
+vertex shader compiled successfully
+vertex shader created successfully
+pixel shader compiled success
+pixel created successfully
+vertex buffer created SUCCESS 
+color buffer created SUCCESS
+position buffer for square created SUCCESS
+color buffer for square created SUCCESS
+Normal buffer for Cube Created  succesfully
+createInputLayout() success
+constant buffer created succesfully
+CreateRasterizerState success
+create wid texture success
+load3d texture for stone.bmp success
+create sampler state for pyramid is success
+create wid texture success
+load3dTexture for vijay kundali texture success
+create sampler state for cube success
+rendertargetview created
+create depth stencil view succesfull
+warm up resize done succesfully

@@ -1,0 +1,88 @@
+Program Started Successfully :  5- 5-2017 10:35:44
+***************************************************************************
+InitD3D12 : IDXGIFactory4 Creation Is Successful.
+-------------------------------------------------------------------------------
+Graphics Adpter : 0 : NVIDIA GeForce GTX 980 Ti
+Graphics Adpter : 1 : NVIDIA GeForce GTX 690
+Graphics Adpter : 2 : NVIDIA GeForce GTX 690
+Graphics Adpter : 3 : Microsoft Basic Render Driver
+Graphics Device : 0 : \\.\DISPLAY1
+-------------------------------------------------------------------------------
+Width =  640 : Height =  480 : Refresh = 60000/1000
+Width =  640 : Height =  480 : Refresh = 75000/1000
+Width =  720 : Height =  480 : Refresh = 60317/1000
+Width =  720 : Height =  480 : Refresh = 60317/1000
+Width =  720 : Height =  480 : Refresh = 75000/1000
+Width =  720 : Height =  480 : Refresh = 75000/1000
+Width =  720 : Height =  576 : Refresh = 60317/1000
+Width =  720 : Height =  576 : Refresh = 60317/1000
+Width =  720 : Height =  576 : Refresh = 75000/1000
+Width =  720 : Height =  576 : Refresh = 75000/1000
+Width =  800 : Height =  600 : Refresh = 60317/1000
+Width =  800 : Height =  600 : Refresh = 75000/1000
+Width = 1024 : Height =  768 : Refresh = 60004/1000
+Width = 1024 : Height =  768 : Refresh = 75029/1000
+Width = 1152 : Height =  864 : Refresh = 75000/1000
+Width = 1280 : Height =  720 : Refresh = 59810/1000
+Width = 1280 : Height =  720 : Refresh = 59810/1000
+Width = 1280 : Height =  768 : Refresh = 59810/1000
+Width = 1280 : Height =  768 : Refresh = 59810/1000
+Width = 1280 : Height =  800 : Refresh = 59810/1000
+Width = 1280 : Height =  960 : Refresh = 60020/1000
+Width = 1280 : Height =  960 : Refresh = 60020/1000
+Width = 1280 : Height =  960 : Refresh = 75025/1000
+Width = 1280 : Height =  960 : Refresh = 75025/1000
+Width = 1280 : Height = 1024 : Refresh = 60020/1000
+Width = 1280 : Height = 1024 : Refresh = 75025/1000
+Width = 1360 : Height =  768 : Refresh = 60000/1000
+Width = 1360 : Height =  768 : Refresh = 60000/1000
+Width = 1366 : Height =  768 : Refresh = 60000/1000
+Width = 1366 : Height =  768 : Refresh = 60000/1000
+Width = 1600 : Height =  900 : Refresh = 60000/1000
+Width = 1600 : Height =  900 : Refresh = 60000/1000
+Width = 1600 : Height = 1024 : Refresh = 60000/1000
+Width = 1600 : Height = 1024 : Refresh = 60000/1000
+Width = 1600 : Height = 1200 : Refresh = 60000/1000
+Width = 1680 : Height = 1050 : Refresh = 59885/1000
+Width = 1680 : Height = 1050 : Refresh = 59885/1000
+Width = 1920 : Height = 1080 : Refresh = 59885/1000
+Width = 1920 : Height = 1080 : Refresh = 59885/1000
+Width = 1920 : Height = 1200 : Refresh = 59885/1000
+Width = 1920 : Height = 1440 : Refresh = 60000/1000
+Width = 2048 : Height = 1536 : Refresh = 59972/1000
+Width = 2048 : Height = 1536 : Refresh = 59972/1000
+Width = 2560 : Height = 1440 : Refresh = 59972/1000
+Width = 2560 : Height = 1440 : Refresh = 59972/1000
+Width = 2560 : Height = 1600 : Refresh = 59972/1000
+-------------------------------------------------------------------------------
+Toatal 4 D3D12 Adapters Are Found
+-------------------------------------------------------------------------------
+InitD3D12 : printD3D12Info() Had Successfully Gave Us DXGIAdapter.
+InitD3D12 : Hardware Aceeleration Enabled ID3D12Device Creation Is Successful.
+InitD3D12 : Command Queue Is Successfully Created.
+InitD3D12 : Swap Chain Is Successfully Created.
+InitD3D12 : RTV Descriptor Heap Is Successfully Created.
+InitD3D12 : Inside A Loop, Buffer For RTV Resource Is Successfully Created : 0.
+InitD3D12 : Inside A Loop, Buffer For RTV Resource Is Successfully Created : 1.
+InitD3D12 : Command Allocator Is Successfully Created.
+InitD3D12 : Command List Is Successfully Created.
+InitD3D12 : Command List Is Successfully Closed.
+InitD3D12 : Fence Is Successfully Created.
+InitD3D12 : Event Handle Is Successfully Created.
+-------------------------------------------------------------------------------
+Cleanup : Event Handle Is Successfully Closed.
+Cleanup : Fence Is Successfully Released.
+Cleanup : Command List Is Successfully Released.
+Cleanup : Command Allocator Is Successfully Released.
+Cleanup : Inside A Loop, Buffer For RTV Resource Is Successfully Released : 0.
+Cleanup : Inside A Loop, Buffer For RTV Resource Is Successfully Released : 1.
+Cleanup : RTV Descriptor Heap Is Successfully Released.
+Cleanup : Swap Chain Is Successfully Released.
+Cleanup : Command Queue Is Successfully Released.
+Cleanup : D3D12Device Is Successfully Released.
+Cleanup : DXGIAdapter Is Successfully Released.
+Cleanup : DXGIFactory Is Successfully Released.
+-------------------------------------------------------------------------------
+Program Completed Successfully :  5- 5-2017 10:35:50
+***************************************************************************
+Code : Dr. Vijay D. Gokhale.

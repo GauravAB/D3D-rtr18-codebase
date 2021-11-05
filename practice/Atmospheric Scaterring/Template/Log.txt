@@ -1,0 +1,22 @@
+log file for D3D11RenderEngine
+D3D11CreateDeviceSwapChain() Succeeded. 
+The Chosen Driver is of Hardware Type. 
+The supported highest feature level is11.0
+ShaderCompiler::D3DCompileFromFile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+gpID3D11Device::CreateInputLayout() Succeeded.
+ShaderCompiler::D3DCompileFromFile() succeeded for pixel shader. 
+CreatePixelShader() succeeded.
+ShaderCompiler::D3DCompileFromFile() succeeded for vertex shader. 
+CreateVertexShader() succeeded.
+gpID3D11Device::CreateInputLayout() Succeeded.
+ShaderCompiler::D3DCompileFromFile() succeeded for pixel shader. 
+CreatePixelShader() succeeded.
+ID3D11Device: CreateBuffer() succeeded to create sphere position bufferID3D11Device: CreateBuffer() succeeded to create sphere normal bufferID3D11Device: CreateBuffer() succeeded to create sphere index bufferID3D11Device::CreateBuffer() Succeeded for vertex buffer for Cube Vertices 
+ID3D11Device::CreateBuffer() Succeeded for vertex buffer for square 
+gpID3D11Device::CreateBuffer() Succeeded. 
+gpID3D11Device::CreateBuffer() Succeeded. 
+ID3D11Device::CreateRasterizerState() succeeded for culling. 
+Sapler state for texture created successfullyID3D11Device::CreateRenderTargetView() succeeded.
+ID3D11Device::CreateDepthStencilView() Success. 
+resize() succeeded. 

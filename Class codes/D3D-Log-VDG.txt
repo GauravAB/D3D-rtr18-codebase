@@ -1,0 +1,24 @@
+===========================================================================
+Program Started Successfully    :  7-10-2018  9:40:58
+===========================================================================
+D3DInitialize() : D3D11CreateDeviceAndSwapChain() Succeeded.
+                  The Chosen Driver Is Of Hardware Type.
+                  The Supported Highest Feature Level Is 11.0
+Resize() : CreateRenderTargetView() Succeeded.
+D3DInitialize() : Resize() Succeeded.
+WinMain() : D3DInitialize() Succeeded.
+Resize() : CreateRenderTargetView() Succeeded.
+D3DInitialize() : Resize() Succeeded.
+Resize() : CreateRenderTargetView() Succeeded.
+D3DInitialize() : Resize() Succeeded.
+Resize() : CreateRenderTargetView() Succeeded.
+D3DInitialize() : Resize() Succeeded.
+Resize() : CreateRenderTargetView() Succeeded.
+D3DInitialize() : Resize() Succeeded.
+Resize() : CreateRenderTargetView() Succeeded.
+D3DInitialize() : Resize() Succeeded.
+WinMain() : D3DUninitialize() Succeeded
+===========================================================================
+Program Terminated Successfully :  7-10-2018  9:41: 8
+===========================================================================
+Code : Dr. Vijay D. Gokhale.

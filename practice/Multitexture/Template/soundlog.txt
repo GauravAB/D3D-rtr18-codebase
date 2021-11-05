@@ -1,0 +1,8 @@
+InitializeDirectSound Success
+file format matched successfully
+SoundClass::LoadWavFile tempBuffer query interface to IID_IDirectSoundBuffer8 iterface success
+fread success
+Secondary Buffer lock success
+data copied in secondary buffer successfully
+LoadWaveFile Success
+PlayWaveFile Success

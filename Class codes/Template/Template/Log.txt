@@ -1,0 +1,7 @@
+File successfully opened
+D3D11CreateDeviceAndSwapChain() Succeeded . 
+The Chosen Driver Is of Hardware Type. 
+The supported Highest Feature Level is 11.0
+ID3D11Device::CreateRenderTargetView() Succeeded.
+uninitialize() Succeeded
+Log file Is successfully Closed.
